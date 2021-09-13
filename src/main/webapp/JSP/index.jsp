@@ -27,6 +27,11 @@
 		<li>1965-1975:<b>Cazavillanos y demás chusma</b></li>
 		<li>1962-1965 <b>Aprendiz de superheroe</b></li>
 	</ul>
+	<ul>
+		<li>1975-1985: <b>En el paro</b></li>
+		<li>1965-1975:<b>Cazavillanos y demás chusma</b></li>
+		<li>1962-1965 <b>Aprendiz de superheroe</b></li>
+	</ul>
 	
 </body>
 </body>
